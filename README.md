@@ -1,2 +1,1 @@
-# tdp-yelb-catalog
-Tanzu Application Platform Developer Portal Yelb Catalog
+Sample org structure for application catalog
